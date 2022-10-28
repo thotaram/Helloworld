@@ -5,7 +5,7 @@ GH_REPO_USER=thotaram
 GH_REPO=Helloworld
 GH_TARGET=main
 ASSETS_PATH=build
-VERSION='1.0.9'
+VERSION='1.0.1'
 git add -u
 git commit -m "$VERSION release"
 git push
