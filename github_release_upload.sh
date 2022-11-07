@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-﻿
 # user/organisation where repo is hosted and repo name e.g. for owner/reponame:
 GH_REPO_USER=thotaram
 GH_REPO=Helloworld
